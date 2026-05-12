@@ -1,0 +1,107 @@
+{
+  "agreement_rate": 0.8400000000000001,
+  "jd_count": 5,
+  "model": "gemini/gemini-2.5-flash",
+  "temperature": 0,
+  "run_at": "2026-05-12T14:38:00Z",
+  "per_jd": [
+    {
+      "jd_id": "jd_001",
+      "jd_title": "Senior Data Scientist",
+      "agent_top5": [
+        "candidate_027",
+        "candidate_032",
+        "candidate_035",
+        "candidate_001",
+        "candidate_010"
+      ],
+      "ground_truth_top5": [
+        "candidate_035",
+        "candidate_032",
+        "candidate_010",
+        "candidate_001",
+        "candidate_027"
+      ],
+      "overlap": 5,
+      "agreement": 1.0
+    },
+    {
+      "jd_id": "jd_002",
+      "jd_title": "Senior iOS Engineer",
+      "agent_top5": [
+        "candidate_024",
+        "candidate_037",
+        "candidate_041",
+        "candidate_006",
+        "candidate_026"
+      ],
+      "ground_truth_top5": [
+        "candidate_024",
+        "candidate_037",
+        "candidate_041",
+        "candidate_006"
+      ],
+      "overlap": 4,
+      "agreement": 0.8
+    },
+    {
+      "jd_id": "jd_003",
+      "jd_title": "Network Support Engineer",
+      "agent_top5": [
+        "candidate_026",
+        "candidate_019",
+        "candidate_037",
+        "candidate_041",
+        "candidate_018"
+      ],
+      "ground_truth_top5": [
+        "candidate_026",
+        "candidate_037",
+        "candidate_041",
+        "candidate_019",
+        "candidate_032"
+      ],
+      "overlap": 4,
+      "agreement": 0.8
+    },
+    {
+      "jd_id": "jd_004",
+      "jd_title": "Machine Learning Engineer",
+      "agent_top5": [
+        "candidate_035",
+        "candidate_006",
+        "candidate_010",
+        "candidate_001",
+        "candidate_033"
+      ],
+      "ground_truth_top5": [
+        "candidate_035",
+        "candidate_010",
+        "candidate_006",
+        "candidate_033",
+        "candidate_015"
+      ],
+      "overlap": 4,
+      "agreement": 0.8
+    },
+    {
+      "jd_id": "jd_005",
+      "jd_title": "Python Backend Developer",
+      "agent_top5": [
+        "candidate_013",
+        "candidate_001",
+        "candidate_035",
+        "candidate_019",
+        "candidate_006"
+      ],
+      "ground_truth_top5": [
+        "candidate_035",
+        "candidate_001",
+        "candidate_013",
+        "candidate_019"
+      ],
+      "overlap": 4,
+      "agreement": 0.8
+    }
+  ]
+}
