@@ -12,6 +12,7 @@ function makeShortlist(n: number): ShortlistResponse {
       matched_requirements: ['Python'],
       missing_requirements: [],
       evidence: 'Good candidate.',
+      vector_score: 0.82,
     })),
   };
 }
