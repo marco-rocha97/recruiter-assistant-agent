@@ -1,0 +1,91 @@
+{
+  "id": "candidate_005",
+  "category": "Data Engineer",
+  "skills": [
+    "accounting",
+    "Accounting Systems",
+    "ad",
+    "analytical skills",
+    "auditing",
+    "automation",
+    "billing",
+    "budgeting",
+    "budgets",
+    "Budget",
+    "business operations",
+    "business process",
+    "Cash-Flow",
+    "cash flow",
+    "closing",
+    "contracts",
+    "CPA",
+    "Crystal Reports",
+    "Database Management",
+    "Essbase",
+    "senior management",
+    "financial",
+    "Financial Accounting",
+    "financial analysis",
+    "financial analysis/planning",
+    "Financial Reporting",
+    "financial statements",
+    "fixed assets",
+    "Forecasting",
+    "general ledger",
+    "Great Plains",
+    "Hyperion",
+    "inventory",
+    "ledger",
+    "law",
+    "market",
+    "MAS 90",
+    "Excel",
+    "MS Office",
+    "negotiation",
+    "Enterprise",
+    "Peachtree",
+    "personnel",
+    "policies",
+    "pricing",
+    "processes",
+    "quantitative analysis",
+    "QuickBooks",
+    "reconciling",
+    "relationship management",
+    "reporting",
+    "researching",
+    "Research",
+    "sales",
+    "SarbanesOxley",
+    "Strategic Planning",
+    "Tax Preparation",
+    "tax",
+    "taxes",
+    "Trend"
+  ],
+  "experience": [
+    {
+      "title": "Lead Accountant",
+      "company": "Company Name",
+      "duration_months": null
+    },
+    {
+      "title": "Senior Accountant",
+      "company": "Company Name",
+      "duration_months": 61
+    },
+    {
+      "title": "Senior Accountant",
+      "company": "Company Name",
+      "duration_months": 5
+    }
+  ],
+  "education": [
+    {
+      "degree": "BS",
+      "institution": "University of Maryland University College",
+      "year": 2005
+    }
+  ],
+  "summary": "nan"
+}

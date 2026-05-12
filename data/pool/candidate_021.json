@@ -1,0 +1,34 @@
+{
+  "id": "candidate_021",
+  "category": "Civil Engineer",
+  "skills": [
+    "Data Analyst",
+    "Data Analytics",
+    "Data Modeling",
+    "Data Validation",
+    "R",
+    "Text Mining",
+    "Statistical Modeling",
+    "Python",
+    "Tableau",
+    "Forecasting",
+    "Clustering Analysis",
+    "Machine Learning",
+    "Natural Language Processing"
+  ],
+  "experience": [
+    {
+      "title": "Trainee Internship",
+      "company": "Adept Solution",
+      "duration_months": 4
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech",
+      "institution": "GIT, Kolkata",
+      "year": 2020
+    }
+  ],
+  "summary": "Data Science Enthusiast looking roles in Data Analytics, Machine learning, Statistical Modeling, Data Visualization."
+}

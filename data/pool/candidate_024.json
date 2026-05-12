@@ -1,0 +1,70 @@
+{
+  "id": "candidate_024",
+  "category": "Executive/ Senior Executive- Trade Marketing, Hygiene Products",
+  "skills": [
+    "Agile coach",
+    "Product owner",
+    "Team lead",
+    "Scrum master",
+    "Web application development",
+    "UI design",
+    "Relational database design",
+    "ASP",
+    "C#",
+    "VB.NET",
+    "SOAP",
+    "REST",
+    "JQuery",
+    "Bootstrap",
+    "CSS",
+    "HTML5",
+    "MSSQL",
+    "MYSQL",
+    "DTS",
+    "SSIS",
+    "SSRS",
+    "IIS 5",
+    "IIS 6",
+    "Agile",
+    "Scrum",
+    "Kanban",
+    "Objective C",
+    "PHP",
+    "Perl"
+  ],
+  "experience": [
+    {
+      "title": "Engineering Team Lead",
+      "company": "Company Name",
+      "duration_months": null
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Company Name",
+      "duration_months": 29
+    },
+    {
+      "title": "Web Developer",
+      "company": "Company Name",
+      "duration_months": 25
+    },
+    {
+      "title": "Jr. Software Engineer",
+      "company": "Company Name",
+      "duration_months": 12
+    }
+  ],
+  "education": [
+    {
+      "degree": "Associate of Science",
+      "institution": "Milwaukee Area Technical College",
+      "year": 2015
+    },
+    {
+      "degree": "Principles of Management",
+      "institution": "MRA",
+      "year": 2011
+    }
+  ],
+  "summary": "nan"
+}

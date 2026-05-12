@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+# Stray local Chroma artifacts — canonical data lives in root data/
+backend/data/
+*.py[cod]
+*.pyo
+.venv/
+*.egg-info/
+dist/
+build/
+
+# uv / ruff / pytest caches
+.ruff_cache/
+.pytest_cache/
+.uv/
+
+# Environment variables (API keys)
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Claude
+.claude/
+CLAUDE.md
+.understand-anything/

@@ -1,0 +1,42 @@
+{
+  "id": "candidate_015",
+  "category": "Marketing Officer",
+  "skills": [
+    "Machine learning",
+    "Deep learning",
+    "Python",
+    "NLP",
+    "Computer vision",
+    "Image processing",
+    "SQL",
+    "Data analysis",
+    "Big Data",
+    "Spark",
+    "Apache hive",
+    "Apache pig",
+    "Tensorflow",
+    "Sklearn",
+    "Data visualization",
+    "Data science"
+  ],
+  "experience": [
+    {
+      "title": "Intern Trainee",
+      "company": "JumpStart",
+      "duration_months": 3
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech",
+      "institution": "Darjeeling Engineering College",
+      "year": 2018
+    },
+    {
+      "degree": "M.Tech",
+      "institution": "Calcutta University",
+      "year": 2020
+    }
+  ],
+  "summary": "nan"
+}

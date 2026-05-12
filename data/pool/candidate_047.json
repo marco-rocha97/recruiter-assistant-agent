@@ -1,0 +1,55 @@
+{
+  "id": "candidate_047",
+  "category": "Project Coordinator (Civil)",
+  "skills": [
+    "Academic",
+    "acrylic",
+    "AutoCAD",
+    "CAD",
+    "concept",
+    "Engineer-In-Training",
+    "EIT",
+    "estimating",
+    "drawing",
+    "graphics and design",
+    "Laser",
+    "Material Science",
+    "Microsoft Excel",
+    "Microsoft PowerPoint",
+    "Microsoft Word",
+    "design process",
+    "progress",
+    "Project management",
+    "proposals",
+    "Reporting",
+    "Research",
+    "robotics",
+    "safety",
+    "SolidWorks",
+    "Statistics",
+    "Time management",
+    "verbal communication skills",
+    "weighing",
+    "Written"
+  ],
+  "experience": [
+    {
+      "title": "Mechanical Engineering Intern",
+      "company": "Company Name",
+      "duration_months": null
+    },
+    {
+      "title": "Systems Engineering Intern",
+      "company": "Company Name",
+      "duration_months": 10
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "University of California, City, State",
+      "year": null
+    }
+  ],
+  "summary": "Highly motivated mechanical engineering student (EIT) interested in pursuing an engaging position in the corporate setting to implement skills honed through years of engineering background. A dedicated student with problem-solving, leadership, and communication skills along with the capability to build relationships and work in a team-oriented environment."
+}

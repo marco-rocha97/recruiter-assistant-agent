@@ -1,0 +1,33 @@
+{
+  "id": "candidate_030",
+  "category": "Full Stack Developer (Python,React js)",
+  "skills": [
+    "Data Analysis",
+    "Business Analysis",
+    "Statistical Analysis",
+    "Regression Analysis",
+    "Natural Language Processing",
+    "Machine Learning",
+    "Numerical Analysis"
+  ],
+  "experience": [
+    {
+      "title": "Statistical Analyst",
+      "company": "BVB",
+      "duration_months": 9
+    }
+  ],
+  "education": [
+    {
+      "degree": "BSc",
+      "institution": "IISc",
+      "year": 2018
+    },
+    {
+      "degree": "MSc",
+      "institution": "IIIT Bangalore",
+      "year": 2020
+    }
+  ],
+  "summary": "Post Graduate Analyst experienced in Business Management and Statistical Analysis. I have a very good grasp on finding the best solution for a business and applying them."
+}

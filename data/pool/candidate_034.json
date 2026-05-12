@@ -1,0 +1,32 @@
+{
+  "id": "candidate_034",
+  "category": "Business Development Executive",
+  "skills": [
+    "Web Development",
+    "Neural Networks",
+    "Deep Learning",
+    "Machine Learning",
+    "Python",
+    "TensorflowJS",
+    "Front End",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Flutter"
+  ],
+  "experience": [
+    {
+      "title": "Intern",
+      "company": "ASI Technologies",
+      "duration_months": null
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech",
+      "institution": "SGGS College of Engineering and Technology",
+      "year": 2020
+    }
+  ],
+  "summary": "I am a fresher who is looking to work as a software developer in Machine Learning Application building and deployment. I am experienced in both machine learning and deep learning and have worked on few collaborative projects on such."
+}

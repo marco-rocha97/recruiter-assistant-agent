@@ -1,0 +1,99 @@
+{
+  "id": "candidate_044",
+  "category": "Data Science Engineer",
+  "skills": [
+    "Microsoft Excel",
+    "Microsoft PowerPoint",
+    "Microsoft Access",
+    "Microsoft Word",
+    "Microsoft Outlook",
+    "JD Edwards/AS 400",
+    "Microsoft Accounting Office",
+    "Image Freeway",
+    "QuickBooks",
+    "SAP",
+    "LX",
+    "SAGE",
+    "account reconciliations",
+    "Accounting",
+    "accruals",
+    "ad",
+    "AS 400",
+    "balance sheet",
+    "balance sheets",
+    "budgets",
+    "budget",
+    "controller",
+    "Corporate Finance",
+    "ERP",
+    "Finance",
+    "financial",
+    "financial reports",
+    "financial reporting",
+    "Financial Statements",
+    "fixed assets",
+    "forms",
+    "general ledger",
+    "Image",
+    "inventory",
+    "JD Edwards",
+    "ledger",
+    "Director",
+    "macros",
+    "materials",
+    "Microsoft Access",
+    "Microsoft Excel",
+    "Office",
+    "Microsoft Outlook",
+    "Microsoft PowerPoint",
+    "Microsoft Word",
+    "month end close",
+    "Operations Management",
+    "pivot tables",
+    "Progress",
+    "QuickBooks",
+    "reporting",
+    "Requirement",
+    "research",
+    "SAGE FAS",
+    "sales",
+    "SAP",
+    "tax",
+    "year-end"
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "company": "Company Name",
+      "duration_months": null
+    },
+    {
+      "title": "Senior Staff Accountant",
+      "company": "Company Name",
+      "duration_months": 21
+    },
+    {
+      "title": "Staff Accountant",
+      "company": "Company Name",
+      "duration_months": 46
+    },
+    {
+      "title": "General Ledger Specialist",
+      "company": "Company Name",
+      "duration_months": 93
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Business Administration",
+      "institution": "Keller Graduate School of Management",
+      "year": 2008
+    },
+    {
+      "degree": "Bachelor of Science",
+      "institution": "DeVry University",
+      "year": 2006
+    }
+  ],
+  "summary": "nan"
+}

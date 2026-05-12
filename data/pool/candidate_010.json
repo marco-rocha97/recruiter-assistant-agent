@@ -1,0 +1,42 @@
+{
+  "id": "candidate_010",
+  "category": "Network Support Engineer",
+  "skills": [
+    "Java",
+    "C++",
+    "Python",
+    "Machine Learning",
+    "Algorithms",
+    "Natural Language Processing",
+    "Deep Learning",
+    "Computer Vision",
+    "Pattern Recognition",
+    "Data Science",
+    "Data Analysis",
+    "Software Engineer",
+    "Data Analyst",
+    "C",
+    "PySpark",
+    "Kubeflow"
+  ],
+  "experience": [
+    {
+      "title": "Data Scientist",
+      "company": "One97 Communications Limited",
+      "duration_months": null
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech",
+      "institution": "SGBAU University",
+      "year": 2017
+    },
+    {
+      "degree": "M.Tech",
+      "institution": "Indian Institute of Technology (IIT), Kanpur",
+      "year": 2019
+    }
+  ],
+  "summary": "Data Scientist working on problems related to market research and customer analysis. I want to expand my arsenal of application building and work on different kinds of problems. Looking for a role where I can work with a coordinative team and exchange knowledge during the process."
+}

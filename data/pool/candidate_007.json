@@ -1,0 +1,44 @@
+{
+  "id": "candidate_007",
+  "category": "Civil Engineer",
+  "skills": [
+    "Brand development",
+    "Analyzing market trends",
+    "Established track record of exceptional sales results",
+    "Account Management",
+    "Excellent negotiating tactics",
+    "Skilled multi-tasker",
+    "SalesForce lead management",
+    "Strong interpersonal skills"
+  ],
+  "experience": [
+    {
+      "title": "Business Development Executive",
+      "company": "Company Name",
+      "duration_months": null
+    },
+    {
+      "title": "Solutions Analyst",
+      "company": "Company Name",
+      "duration_months": 14
+    },
+    {
+      "title": "Product Marketing Specialist",
+      "company": "Company Name",
+      "duration_months": 36
+    },
+    {
+      "title": "Project Coordinator/ Sales",
+      "company": "Company Name",
+      "duration_months": 7
+    }
+  ],
+  "education": [
+    {
+      "degree": "Marketing Management Real Estate",
+      "institution": "Miami Dade College",
+      "year": 2013
+    }
+  ],
+  "summary": "nan"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "candidate_014",
+  "category": "System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",
+  "skills": [
+    "Adobe",
+    "Customer Relations",
+    "Document reports",
+    "Budgeting",
+    "Cross-functional Team Leadership",
+    "Business Analysis",
+    "Access",
+    "Microsoft Project",
+    "Organization",
+    "Advanced Presentation",
+    "Project Coordinator",
+    "Python",
+    "Quality Control",
+    "Quality Assurance",
+    "Research",
+    "Developing other Business Analyst",
+    "Public Speaking",
+    "Negotiation",
+    "SAP",
+    "SQL",
+    "SPSS",
+    "Oracle",
+    "Fast Learner",
+    "Strong Requirement tracing",
+    "Basic financial and operational reporting",
+    "Superb communication skills",
+    "Advanced problem solving abilities"
+  ],
+  "experience": [
+    {
+      "title": "Business Development Analyst",
+      "company": "Company Name",
+      "duration_months": 15
+    },
+    {
+      "title": "Documentation Analyst",
+      "company": "Company Name",
+      "duration_months": 10
+    },
+    {
+      "title": "Data Analyst (Intern)",
+      "company": "Company Name",
+      "duration_months": 6
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Arts",
+      "institution": "University of Miami",
+      "year": 2016
+    }
+  ],
+  "summary": "nan"
+}

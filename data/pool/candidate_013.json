@@ -1,0 +1,27 @@
+{
+  "id": "candidate_013",
+  "category": "Full Stack Developer (Python,React js)",
+  "skills": [
+    "JavaScript (Angular)",
+    "HTML/CSS",
+    "Python (Django)",
+    "SQL (MySQL, PostgreSQL)",
+    "Git",
+    "Ruby on Rails"
+  ],
+  "experience": [
+    {
+      "title": "Computer Science Tutor",
+      "company": "Pearson",
+      "duration_months": null
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "New York University",
+      "year": 2021
+    }
+  ],
+  "summary": "Innovative and enthusiastic computer science educator with a passion for critical thinking/problem-solving and sharing a love for technology and science. Looking for a career role at the Green Meadow Waldorf School that will make a difference for students in the STEM areas and instill in them the confidence and abilities to succeed and thrive."
+}

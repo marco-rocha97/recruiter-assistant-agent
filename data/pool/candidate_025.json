@@ -1,0 +1,76 @@
+{
+  "id": "candidate_025",
+  "category": "Civil Engineer",
+  "skills": [
+    "account reconciliation",
+    "accounting",
+    "accountant",
+    "accounting system",
+    "AR",
+    "budget",
+    "business objects",
+    "closing",
+    "Contracts",
+    "financial",
+    "financial analysis",
+    "financial controls",
+    "financial operations",
+    "financial reports",
+    "financial statements",
+    "GL",
+    "Grants",
+    "inventory",
+    "invoicing",
+    "ledger",
+    "Macros",
+    "Access",
+    "Excel",
+    "Microsoft Office",
+    "office",
+    "Outlook",
+    "PowerPoint",
+    "Word",
+    "Monitors",
+    "operating systems",
+    "PeopleSoft",
+    "policies",
+    "processes",
+    "procurement",
+    "reporting",
+    "Research",
+    "SAP",
+    "Sarbanes-Oxley",
+    "training materials",
+    "view"
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "company": "Company Name",
+      "duration_months": null
+    },
+    {
+      "title": "Staff Accountant",
+      "company": "Company Name",
+      "duration_months": 20
+    },
+    {
+      "title": "Accountant /Auditor",
+      "company": "Company Name",
+      "duration_months": 25
+    }
+  ],
+  "education": [
+    {
+      "degree": "Masters of Science",
+      "institution": "Prairie View A&M University",
+      "year": 2009
+    },
+    {
+      "degree": "BBA",
+      "institution": "Prairie View A&M University",
+      "year": null
+    }
+  ],
+  "summary": "nan"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "candidate_033",
+  "category": "Data Science Engineer",
+  "skills": [
+    "Machine Learning",
+    "Natural Language Processing",
+    "Deep Learning",
+    "Sentiment Analysis",
+    "Python",
+    "NLTK",
+    "BeRT",
+    "GPT",
+    "XLNet",
+    "Text Analysis",
+    "Text Extraction",
+    "OCR"
+  ],
+  "experience": [
+    {
+      "title": "NLP Developer Intern",
+      "company": "Zynta Labs",
+      "duration_months": 7
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.TECH",
+      "institution": "Rajiv Gandhi Memorial University, Delhi",
+      "year": 2020
+    }
+  ],
+  "summary": "nan"
+}

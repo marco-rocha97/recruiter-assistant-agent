@@ -1,0 +1,13 @@
+{
+  "total_source": 9544,
+  "total_selected": 50,
+  "total_included": 49,
+  "total_excluded": 1,
+  "exclusions": [
+    {
+      "source_id": "3054",
+      "category": "Network Support Engineer",
+      "reason": "no_skills"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "candidate_028",
+  "category": "Machine Learning (ML) Engineer",
+  "skills": [
+    "assisted living",
+    "interpersonal and communication",
+    "insurance",
+    "internal medicine",
+    "managing",
+    "marketing",
+    "marketing/sales",
+    "meetings",
+    "mentor",
+    "office",
+    "networking",
+    "organizing",
+    "orthopedics",
+    "outside sales",
+    "physical therapy",
+    "rehabilitation",
+    "sales",
+    "seminars",
+    "Team player",
+    "time management"
+  ],
+  "experience": [
+    {
+      "title": "Business Development Manager",
+      "company": "Company Name",
+      "duration_months": 42
+    },
+    {
+      "title": "Marketing/Outside Physician Rep",
+      "company": "Company Name",
+      "duration_months": 52
+    },
+    {
+      "title": "Marketing Director",
+      "company": "Company Name",
+      "duration_months": 46
+    },
+    {
+      "title": "Resident Liaison",
+      "company": "Company Name",
+      "duration_months": 24
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.A",
+      "institution": "ARIZONA STATE UNIVERSITY",
+      "year": null
+    }
+  ],
+  "summary": "nan"
+}

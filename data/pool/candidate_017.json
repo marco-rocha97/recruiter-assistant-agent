@@ -1,0 +1,30 @@
+{
+  "id": "candidate_017",
+  "category": "Full Stack Developer (Python,React js)",
+  "skills": [
+    "Data science",
+    "Deep learning",
+    "Neural Networks",
+    "Artificial Intelligence",
+    "Natural Language Processing",
+    "Pattern Recognition",
+    "Machine Learning",
+    "Predictive Analytics",
+    "Logistic regression"
+  ],
+  "experience": [
+    {
+      "title": "Intern Trainee",
+      "company": "BB House of Developers",
+      "duration_months": 3
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.CA",
+      "institution": "St. Subhash College, Hyderabad",
+      "year": 2020
+    }
+  ],
+  "summary": "An enthusiast, with a Master's degree in Electronics & Telecommunication, very keen to learn & eagerly looking for opportunities."
+}

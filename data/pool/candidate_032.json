@@ -1,0 +1,37 @@
+{
+  "id": "candidate_032",
+  "category": "System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)",
+  "skills": [
+    "Data Analyst",
+    "Data Mining",
+    "Data Visualization",
+    "Text Analytics",
+    "Data Collection",
+    "Data Cleaning",
+    "Business Analysis",
+    "Python",
+    "SQL",
+    "Google Bigquery",
+    "Tableau",
+    "Kibana",
+    "MS Excel/ MS Office",
+    "Linux",
+    "Elastic Search",
+    "Machine Learning"
+  ],
+  "experience": [
+    {
+      "title": "Blockchain Analyst",
+      "company": "Polymon",
+      "duration_months": null
+    }
+  ],
+  "education": [
+    {
+      "degree": "BCA",
+      "institution": "SP Jain University",
+      "year": 2019
+    }
+  ],
+  "summary": "An avid data analyst looking to step into the world of machine learning and data sciences. I have experience related to Data Mining, Data Visualization, Text Analytics, Data Collection and would currently like to expand my horizon and work on Machine Learning projects."
+}

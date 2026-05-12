@@ -1,0 +1,63 @@
+{
+  "id": "candidate_043",
+  "category": "Asst. Manager/ Manger (Administrative)",
+  "skills": [
+    "Business Development & Sales Leadership",
+    "Sales Presentations",
+    "Client Development",
+    "Strategic Planning",
+    "Market Expansion",
+    "Team Building & Leadership",
+    "Client Engagement",
+    "Market Analysis/Competitive Positioning",
+    "Sales Forecasting",
+    "Vendor Sourcing/Relations",
+    "Change Management",
+    "Process Improvement",
+    "Profit Improvement",
+    "account management",
+    "streamline",
+    "business development",
+    "cold calling",
+    "compliance management",
+    "inventory management",
+    "inventory levels",
+    "inventory control",
+    "logistics",
+    "mailing",
+    "marketing strategies",
+    "process management",
+    "sales",
+    "VoIP"
+  ],
+  "experience": [
+    {
+      "title": "Director of Business Development",
+      "company": "Company Name",
+      "duration_months": 48
+    },
+    {
+      "title": "Inside Sales Representative",
+      "company": "Company Name",
+      "duration_months": null
+    },
+    {
+      "title": "General Manager",
+      "company": "Company Name",
+      "duration_months": 48
+    },
+    {
+      "title": "Assistant Manager",
+      "company": "Company Name",
+      "duration_months": 12
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Arts",
+      "institution": "UNIVERSITY OF COLORADO",
+      "year": null
+    }
+  ],
+  "summary": "nan"
+}

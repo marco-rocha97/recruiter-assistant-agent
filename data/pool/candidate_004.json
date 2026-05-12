@@ -1,0 +1,36 @@
+{
+  "id": "candidate_004",
+  "category": "DevOps Engineer",
+  "skills": [
+    "Data Science",
+    "Analysis",
+    "Machine Learning",
+    "Bounding Algorithms",
+    "Heuristics",
+    "ANN",
+    "Decision Trees",
+    "SVM",
+    "Hypothesis Analysis",
+    "Optimization"
+  ],
+  "experience": [
+    {
+      "title": "Intern",
+      "company": "Crison Global Service",
+      "duration_months": null
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc (Computer Science Engineering)",
+      "institution": "St Josephs College of Arts and Science Bengaluru",
+      "year": 2019
+    },
+    {
+      "degree": "M.Sc (Data Science)",
+      "institution": "St Josephs College of Arts and Science Bengaluru",
+      "year": 2021
+    }
+  ],
+  "summary": "I would like to introduce myself as an applicant for the data scientist role. I have gathered an well informed amount of experience from my coursework and I feel that I can perform and produce results in an work environment if given the opportunity."
+}

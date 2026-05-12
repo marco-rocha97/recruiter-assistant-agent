@@ -1,0 +1,68 @@
+{
+  "id": "candidate_031",
+  "category": "Intern (Generative AI Engineering - 2D/3D Image Generation)",
+  "skills": [
+    "Academic",
+    "AutoCad",
+    "banking",
+    "basic",
+    "Calculus",
+    "credit",
+    "database",
+    "Database Management System",
+    "Engineer",
+    "Experiments",
+    "GUI",
+    "LASER",
+    "layout",
+    "Materials",
+    "MATLAB",
+    "Mechanical Engineering",
+    "Excel",
+    "Microsoft Office",
+    "Outlook",
+    "Power Point",
+    "Word",
+    "MySQL",
+    "Optimization",
+    "Physics",
+    "Police",
+    "progress",
+    "Research",
+    "Retail",
+    "Scheduling",
+    "Statistics",
+    "VBA",
+    "website"
+  ],
+  "experience": [
+    {
+      "title": "Mechanical Engineering Tutor",
+      "company": "Company Name",
+      "duration_months": 12
+    },
+    {
+      "title": "Assistant Professor",
+      "company": "Company Name",
+      "duration_months": 11
+    },
+    {
+      "title": "Intern",
+      "company": "Company Name",
+      "duration_months": 40
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Science",
+      "institution": "Arizona State University",
+      "year": 2016
+    },
+    {
+      "degree": "Bachelor of Engineering",
+      "institution": "University of Mumbai",
+      "year": 2011
+    }
+  ],
+  "summary": "Driven and a self-motivated Mechanical Engineer with experience teaching Mechanical Engineering courses to undergraduate students. Seeking opportunities to use those concepts in the field of Construction and Management."
+}

@@ -1,0 +1,102 @@
+{
+  "id": "candidate_046",
+  "category": "Business Development Executive",
+  "skills": [
+    "FAS Asset Accounting",
+    "Quickbooks",
+    "Anytime Scheduler",
+    "KRONOS",
+    "Munis",
+    "MAS90",
+    "Excel",
+    "Word",
+    "Outlook",
+    "Internet Explorer",
+    "FRX",
+    "Netscape Messenger",
+    "JD Edwards",
+    "Accounting",
+    "Accounts payable",
+    "Accounts Receivable",
+    "accruals",
+    "acquisitions",
+    "billing",
+    "closing",
+    "Consulting",
+    "contracts",
+    "Controller",
+    "credit",
+    "Customer Support",
+    "financials",
+    "financial statements",
+    "fixed assets",
+    "general ledger",
+    "Human Resource",
+    "insurance",
+    "Internet Explorer",
+    "JD Edwards",
+    "Job costing",
+    "KRONOS",
+    "Lotus",
+    "marketing",
+    "MAS90",
+    "Excel",
+    "Outlook Express",
+    "Windows",
+    "Word",
+    "Netscape",
+    "Payroll",
+    "personnel",
+    "Quickbooks"
+  ],
+  "experience": [
+    {
+      "title": "Payroll Accountant",
+      "company": "Company Name",
+      "duration_months": null
+    },
+    {
+      "title": "Accountant",
+      "company": "Company Name",
+      "duration_months": 50
+    },
+    {
+      "title": "Staff Accountant",
+      "company": "Company Name",
+      "duration_months": 8
+    },
+    {
+      "title": "Staff Accountant",
+      "company": "Company Name",
+      "duration_months": 17
+    },
+    {
+      "title": "Accounts Receivable Administrator",
+      "company": "Company Name",
+      "duration_months": 11
+    },
+    {
+      "title": "Contracts Processor",
+      "company": "Company Name",
+      "duration_months": 70
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master",
+      "institution": "Keller Graduate School of Management",
+      "year": 2014
+    },
+    {
+      "degree": "Bachelor of Science",
+      "institution": "DeVry University",
+      "year": 1993
+    },
+    {
+      "degree": "None",
+      "institution": "Army National Guard",
+      "year": null
+    }
+  ],
+  "summary": "nan"
+}

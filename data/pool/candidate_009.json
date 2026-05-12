@@ -1,0 +1,31 @@
+{
+  "id": "candidate_009",
+  "category": "Asst. Manager/ Manger (Administrative)",
+  "skills": [
+    "Software Development",
+    "Application Programming",
+    "Agile Methodology",
+    "System Analysis",
+    "Technical Architecture",
+    "Project Management",
+    "Requirement Gathering",
+    "Client Management",
+    "Machine Learning",
+    "Java"
+  ],
+  "experience": [
+    {
+      "title": "Junior System Engineer Analyst",
+      "company": "Indosis Care",
+      "duration_months": null
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech",
+      "institution": "Hoogly Engineering College",
+      "year": 2020
+    }
+  ],
+  "summary": "Fresher early in system engineer role looking to change tracks into data analytics and application."
+}

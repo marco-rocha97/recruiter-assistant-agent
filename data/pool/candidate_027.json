@@ -1,0 +1,39 @@
+{
+  "id": "candidate_027",
+  "category": "Asst. Manager/ Manger (Administrative)",
+  "skills": [
+    "Data Programming",
+    "Data Analysis",
+    "Machine Learning",
+    "Data Modelling",
+    "Deep Learning",
+    "Data Visualization",
+    "Text Mining",
+    "SAS Base",
+    "Python",
+    "Excel",
+    "Tableau",
+    "Insights",
+    "Objective Analysis"
+  ],
+  "experience": [
+    {
+      "title": "DATA PROGRAMMER",
+      "company": "Publicis Sapient",
+      "duration_months": null
+    },
+    {
+      "title": "ANALYST INTERN",
+      "company": "Publicis Sapient",
+      "duration_months": null
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech",
+      "institution": "NIST Kottam",
+      "year": 2019
+    }
+  ],
+  "summary": "nan"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "candidate_022",
+  "category": "Executive/ Sr. Executive -IT",
+  "skills": [
+    "Perl",
+    "Java",
+    "C++",
+    "HTML",
+    "PHP",
+    "MySQL",
+    "Scheme",
+    "MatLab",
+    "Microsoft Office",
+    "Adobe Photoshop",
+    "Adobe Dreamweaver",
+    "3ds Max",
+    "Windows (95, 98, 2000, XP, Vista)",
+    "Mac OS",
+    "Linux",
+    "Self-motivated",
+    "Creative thinker",
+    "Detail-oriented",
+    "Excellent time management skills"
+  ],
+  "experience": [
+    {
+      "title": "Collaborative User Experience Group Intern",
+      "company": "ABC Research",
+      "duration_months": null
+    },
+    {
+      "title": "Student Web Developer",
+      "company": "Library Application Services, NSU",
+      "duration_months": null
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "Computer Science Departments, NSU",
+      "duration_months": null
+    },
+    {
+      "title": "Computer teacher",
+      "company": "YMCA",
+      "duration_months": 31
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.S. in Computer Science",
+      "institution": "Nova Southeastern University, Davie FL",
+      "year": null
+    }
+  ],
+  "summary": "nan"
+}

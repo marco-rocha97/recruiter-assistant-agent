@@ -1,0 +1,58 @@
+{
+  "id": "candidate_045",
+  "category": "HR Officer",
+  "skills": [
+    "CAD packages (SolidWorks, Autodesk Inventor, AutoCAD, CATIA, PTC CREO)",
+    "CAE Softwares (HyperMesh, Abaqus, ANSYS, Optistruct)",
+    "Analysis (Linear & Non-linear Static, Dynamic, GD & T, Tolerance Analysis, Design Optimization)",
+    "Sheet metal",
+    "Design for manufacturing",
+    "Generating Bill of Materials",
+    "DFMEA",
+    "Sculpting",
+    "Advanced material selection for rapid prototyping",
+    "Advanced manufacturing",
+    "Welding",
+    "3D printing"
+  ],
+  "experience": [
+    {
+      "title": "Finite Element Analysis of Industrial Robotic Assembly",
+      "company": "Illinois Institute of Technology",
+      "duration_months": 4
+    },
+    {
+      "title": "Reliability Engineering Analysis on Automotive Oil Pump",
+      "company": "Illinois Institute of Technology",
+      "duration_months": 3
+    },
+    {
+      "title": "Gearbox Design",
+      "company": "Narsee Monjee Institute of Management Studies",
+      "duration_months": 4
+    },
+    {
+      "title": "Mechanical Engineering Intern",
+      "company": "N/A",
+      "duration_months": 2
+    },
+    {
+      "title": "Manufacturing Engineering Intern",
+      "company": "N/A",
+      "duration_months": 2
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master's",
+      "institution": "Illinois Institute of Technology",
+      "year": 2017
+    },
+    {
+      "degree": "Bachelor of Technology",
+      "institution": "Narsee Monjee Institute of Management Studies",
+      "year": 2014
+    }
+  ],
+  "summary": "nan"
+}

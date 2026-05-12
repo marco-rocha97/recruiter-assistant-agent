@@ -1,0 +1,27 @@
+{
+  "id": "candidate_038",
+  "category": "Senior Software Engineer",
+  "skills": [
+    "Python",
+    "MySQL",
+    "Tensorflow",
+    "Keras",
+    "Machine Learning",
+    "Deep Learning"
+  ],
+  "experience": [
+    {
+      "title": "Intern",
+      "company": "JP Chand and Co",
+      "duration_months": 5
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech",
+      "institution": "CIT, Calicut",
+      "year": 2019
+    }
+  ],
+  "summary": "Seeking challenging opportunity in the field of data science and data analytics where I can utilize my skills and knowledge to contribute for the growth of the organization"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "candidate_012",
+  "category": "Machine Learning (ML) Engineer",
+  "skills": [
+    "Artificial Intelligence",
+    "Deep Learning",
+    "Reinforcement Learning",
+    "Tensorflow Keras",
+    "Scikit learn",
+    "Numpy",
+    "Pandas",
+    "Matplotlib"
+  ],
+  "experience": [
+    {
+      "title": "Analyst Intern",
+      "company": "Larsen & Toubro",
+      "duration_months": null
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech(IT)",
+      "institution": "IIIT D&M Kancheepuram, Chennai",
+      "year": 2019
+    }
+  ],
+  "summary": "Machine Learning Engineer seeking assignments Deep Learning, Reinforcement Learning, Tensorflow. Keras."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "candidate_036",
+  "category": "Marketing Officer",
+  "skills": [
+    "Machine Learning",
+    "Deep Learning",
+    "Neural Networks",
+    "ML Algorithms",
+    "Python",
+    "NumPy",
+    "Scikit Learn",
+    "Matplotlib",
+    "Keras",
+    "Pandas",
+    "TensorFlow",
+    "Seaborn",
+    "Java",
+    "ReactJS",
+    "NodeJS"
+  ],
+  "experience": [
+    {
+      "title": "Intern Trainee",
+      "company": "E-Novate Labs",
+      "duration_months": 4
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc",
+      "institution": "KTM College, Nashik (affiliated with Lucknow University)",
+      "year": 2019
+    },
+    {
+      "degree": "MCA",
+      "institution": "SPP University, Pune",
+      "year": 2021
+    }
+  ],
+  "summary": "I am a recent graduate who is interested and fascinated by Machine learning. I want to join this industry and be a part of it, learn and contribute towards both the growth of the company and me as an Individuals in terms of skills."
+}

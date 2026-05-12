@@ -1,0 +1,51 @@
+{
+  "id": "candidate_035",
+  "category": "Project Coordinator (Civil)",
+  "skills": [
+    "Python",
+    "MySQL",
+    "Natural Language Processing",
+    "Machine Learning",
+    "Neural Networks",
+    "Flask",
+    "Docker",
+    "GIT",
+    "BERT",
+    "LSTM",
+    "RNN",
+    "Deep Learning",
+    "AWS",
+    "Tensorflow",
+    "Keras",
+    "PyTorch",
+    "Numpy",
+    "Pandas",
+    "Glove",
+    "Lucene",
+    "Linux",
+    "Devops",
+    "Spacy",
+    "GPU",
+    "Data Science"
+  ],
+  "experience": [
+    {
+      "title": "Machine Learning Engineer",
+      "company": "BrainStrom",
+      "duration_months": null
+    },
+    {
+      "title": "Junior Machine Learning Intern",
+      "company": "IBB Tech Pvt Ltd",
+      "duration_months": 10
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech",
+      "institution": "SKN, Coimbatore",
+      "year": 2019
+    }
+  ],
+  "summary": "nan"
+}

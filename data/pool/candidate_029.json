@@ -1,0 +1,63 @@
+{
+  "id": "candidate_029",
+  "category": "Executive/ Sr. Executive -IT",
+  "skills": [
+    "Program Management",
+    "Portfolio Management",
+    "Process Analysis",
+    "Solution Design",
+    "Enterprise Software",
+    "Systems Integration",
+    "Data Management",
+    "Product Excellence",
+    "Agile Methodology",
+    "People Development",
+    "Leadership Development",
+    "Coaching/Mentoring"
+  ],
+  "experience": [
+    {
+      "title": "Senior Engineering Program Manager",
+      "company": "Company Name",
+      "duration_months": 74
+    },
+    {
+      "title": "Founder/Principal Consultant",
+      "company": "Company Name",
+      "duration_months": 154
+    },
+    {
+      "title": "Senior Manager",
+      "company": "Company Name",
+      "duration_months": 57
+    },
+    {
+      "title": "Adjunct Professor",
+      "company": "Claremont Graduate University",
+      "duration_months": null
+    },
+    {
+      "title": "Instructor",
+      "company": "Mount St. Mary's University",
+      "duration_months": 12
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ph.D.",
+      "institution": "Claremont Graduate University",
+      "year": null
+    },
+    {
+      "degree": "Master of Science",
+      "institution": "Claremont Graduate University",
+      "year": null
+    },
+    {
+      "degree": "Bachelor of Arts",
+      "institution": "Mount St. Mary's University",
+      "year": null
+    }
+  ],
+  "summary": "nan"
+}

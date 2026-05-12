@@ -1,0 +1,29 @@
+{
+  "id": "candidate_049",
+  "category": "HR Officer",
+  "skills": [
+    "CPR & First Aid Certified",
+    "Proficient in Microsoft Word",
+    "Basic knowledge of Microsoft PowerPoint and Excel"
+  ],
+  "experience": [
+    {
+      "title": "Dining Room Attendant",
+      "company": "SLU Food Services",
+      "duration_months": 7
+    },
+    {
+      "title": "Babysitter",
+      "company": "Self-Employed",
+      "duration_months": 10
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "Southeastern Louisiana University",
+      "year": 2025
+    }
+  ],
+  "summary": "nan"
+}

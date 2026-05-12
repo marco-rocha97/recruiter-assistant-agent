@@ -1,0 +1,28 @@
+{
+  "id": "candidate_003",
+  "category": "Mechanical Designer",
+  "skills": [
+    "Embedded Software Development",
+    "Embedded Systems",
+    "Project Management",
+    "Chain Management",
+    "Defect Detection",
+    "Machine Learning",
+    "Unit Testing"
+  ],
+  "experience": [
+    {
+      "title": "System Developer",
+      "company": "Titli Foundation",
+      "duration_months": 6
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech",
+      "institution": "Manipal University",
+      "year": 2021
+    }
+  ],
+  "summary": "Fresher with excellent communication, good analyzing, and problem-solving skills. Proficient and well-armed at Debugging and Bug fixing. Strong C, C++ coding background and well informed in OOPs concepts."
+}

@@ -1,0 +1,47 @@
+{
+  "id": "candidate_039",
+  "category": "Executive - VAT",
+  "skills": [
+    "GIS",
+    "lighting designs using Visual Professional",
+    "Access",
+    "Excel",
+    "Microsoft Office",
+    "Power Point"
+  ],
+  "experience": [
+    {
+      "title": "Lighting Field Engineering Technician",
+      "company": "Company Name",
+      "duration_months": 15
+    },
+    {
+      "title": "Administrative Technical Aide",
+      "company": "Company Name",
+      "duration_months": 16
+    },
+    {
+      "title": "Customer Service Professional",
+      "company": "Company Name",
+      "duration_months": 10
+    },
+    {
+      "title": "Business Cooperative Education Student- Customer Care",
+      "company": "Company Name",
+      "duration_months": 14
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelors",
+      "institution": "University of South Florida",
+      "year": null
+    },
+    {
+      "degree": "Associates Degree",
+      "institution": "Hillsborough Community College",
+      "year": null
+    }
+  ],
+  "summary": "nan"
+}

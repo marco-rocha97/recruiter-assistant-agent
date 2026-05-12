@@ -1,0 +1,76 @@
+{
+  "id": "candidate_042",
+  "category": "Mechanical Engineer",
+  "skills": [
+    "Generally Accepted Accounting Principles",
+    "Generally Accepted Auditing Standards",
+    "Interviewing Techniques",
+    "Research & Data Gathering",
+    "Financial Analysis",
+    "Budget Preparation",
+    "Accounts Payable/Accounts Receivable",
+    "Implementing Effective Internal Controls",
+    "OMB Circular A-133",
+    "MS Office",
+    "Quickbooks",
+    "Accounting",
+    "Administrative",
+    "Agency",
+    "Audit Report",
+    "Backup",
+    "Bank Reconciliations",
+    "Basic",
+    "Billing",
+    "Budgets",
+    "Cash Register",
+    "Cashier",
+    "Catalog",
+    "Clerical",
+    "Conferences",
+    "Contracts",
+    "Client",
+    "Data Analysis",
+    "Database",
+    "Decision-making",
+    "Direction",
+    "Documentation",
+    "Financial",
+    "Financial Statements",
+    "Funds",
+    "Legal",
+    "Money",
+    "Policies",
+    "Processes",
+    "Video"
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "company": "Company Name",
+      "duration_months": 6
+    },
+    {
+      "title": "Administrative Specialist II",
+      "company": "Company Name",
+      "duration_months": 12
+    },
+    {
+      "title": "Auditor II",
+      "company": "Company Name",
+      "duration_months": 113
+    },
+    {
+      "title": "Accountant",
+      "company": "Company Name",
+      "duration_months": 27
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor Business Administration",
+      "institution": "Fox School of Business, Temple University",
+      "year": null
+    }
+  ],
+  "summary": "nan"
+}

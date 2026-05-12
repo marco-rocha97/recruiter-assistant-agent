@@ -1,0 +1,57 @@
+{
+  "id": "candidate_018",
+  "category": "Site Engineer",
+  "skills": [
+    "Electronic & Mechanical Technology",
+    "Maintenance Management",
+    "Project Management",
+    "Program Management",
+    "Lean/six sigma principles",
+    "Mechanical Component Troubleshooting",
+    "Quality Assurance/Control",
+    "Material Management",
+    "Staff Development/Leadership",
+    "Technical Interface",
+    "Safety Compliance",
+    "Microsoft Office",
+    "Microsoft Project",
+    "Microsoft Access",
+    "SAP",
+    "SharePoint"
+  ],
+  "experience": [
+    {
+      "title": "Engineering Project Manager III",
+      "company": "Company Name",
+      "duration_months": null
+    },
+    {
+      "title": "Field Engineer/Maintenance Support Engineer",
+      "company": "Company Name",
+      "duration_months": 78
+    },
+    {
+      "title": "Aircraft Mechanic / Electrician / Avionics Technician",
+      "company": "Company Name",
+      "duration_months": null
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA",
+      "institution": "Eastern New Mexico University",
+      "year": 2015
+    },
+    {
+      "degree": "Bachelor of Science",
+      "institution": "Embry-Riddle Aeronautical University",
+      "year": 2008
+    },
+    {
+      "degree": "Associate of Science",
+      "institution": "Enterprise Community College",
+      "year": 2004
+    }
+  ],
+  "summary": "nan"
+}

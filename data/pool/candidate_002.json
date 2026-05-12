@@ -1,0 +1,89 @@
+{
+  "id": "candidate_002",
+  "category": "AI Engineer",
+  "skills": [
+    "Account Reconciliation",
+    "Accounting",
+    "Accounts Payable",
+    "Accounts Receivable",
+    "AR",
+    "Billing",
+    "Budget",
+    "Cash Handling",
+    "Closing",
+    "Coaching",
+    "Communication Skills",
+    "Contracts",
+    "Credit",
+    "Customer Service",
+    "Financial",
+    "Forms",
+    "General Ledger",
+    "General Ledger Accounts",
+    "Grants",
+    "Groupwise",
+    "Instructing",
+    "Mentoring",
+    "Merchandising",
+    "Microsoft Office",
+    "Outlook",
+    "Organizational Skills",
+    "Packaging",
+    "Policies",
+    "Pricing",
+    "Public Speaking",
+    "Purchasing",
+    "Receiving",
+    "Reconciling",
+    "Research",
+    "Spreadsheets",
+    "Team Player",
+    "Time Management",
+    "Year-End"
+  ],
+  "experience": [
+    {
+      "title": "Accountant III",
+      "company": "Company Name",
+      "duration_months": null
+    },
+    {
+      "title": "Assistant Accountant",
+      "company": "Company Name",
+      "duration_months": 84
+    },
+    {
+      "title": "Accounting Clerk B",
+      "company": "Company Name",
+      "duration_months": 12
+    },
+    {
+      "title": "Accounting Instructor",
+      "company": "Company Name",
+      "duration_months": 7
+    },
+    {
+      "title": "Student Accounts Representative/Bookkeeper",
+      "company": "Company Name",
+      "duration_months": 12
+    }
+  ],
+  "education": [
+    {
+      "degree": "BBA",
+      "institution": "Prairie View A & M University",
+      "year": 2003
+    },
+    {
+      "degree": "BBA",
+      "institution": "University of North Texas",
+      "year": 2013
+    },
+    {
+      "degree": "MBA",
+      "institution": "University of North Texas",
+      "year": 2015
+    }
+  ],
+  "summary": "nan"
+}

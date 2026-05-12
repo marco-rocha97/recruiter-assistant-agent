@@ -1,0 +1,50 @@
+{
+  "id": "candidate_016",
+  "category": "Marketing Officer",
+  "skills": [
+    "Leadership Development",
+    "Project Management",
+    "Budgeting",
+    "Employee Management",
+    "Operations Management",
+    "Business Management",
+    "Inventory Management",
+    "Risk Management",
+    "Staff Development"
+  ],
+  "experience": [
+    {
+      "title": "Business Development Manager",
+      "company": "Company Name",
+      "duration_months": null
+    },
+    {
+      "title": "Athletic Coordinator",
+      "company": "Company Name",
+      "duration_months": 103
+    },
+    {
+      "title": "Patient Relations Supervisor",
+      "company": "Company Name",
+      "duration_months": 84
+    }
+  ],
+  "education": [
+    {
+      "degree": "Masters of Public Administration",
+      "institution": "Texas Tech University",
+      "year": null
+    },
+    {
+      "degree": "B.A. General Studies",
+      "institution": "Texas Tech University",
+      "year": null
+    },
+    {
+      "degree": "High School Diploma",
+      "institution": "Denison High School",
+      "year": null
+    }
+  ],
+  "summary": "nan"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "candidate_006",
+  "category": "Senior Software Engineer",
+  "skills": [
+    "Tensorflow",
+    "AWS",
+    "Keras",
+    "Deep Learning",
+    "Pytorch",
+    "Flask",
+    "Machine Learning",
+    "PySpark",
+    "Kafka",
+    "XML",
+    "API",
+    "JavaScript",
+    "AngularJS",
+    "SAP",
+    "RestAPI",
+    "PHP"
+  ],
+  "experience": [
+    {
+      "title": "Software Developer ML",
+      "company": "AT&C Solutions",
+      "duration_months": null
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech(IT)",
+      "institution": "PES University, Bangalore",
+      "year": 2019
+    }
+  ],
+  "summary": "I am a software developer and analyst professional working for a year with client side technology and Machine Learning product delivery. I have handled small but scalable Machine Learning projects and want to expand my experience and expertise in the domain."
+}

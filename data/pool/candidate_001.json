@@ -1,0 +1,37 @@
+{
+  "id": "candidate_001",
+  "category": "Senior iOS Engineer",
+  "skills": [
+    "Neural Networks",
+    "Python",
+    "Postgresql",
+    "Django",
+    "Microsoft Azure",
+    "Flask",
+    "Hive",
+    "Kafka",
+    "Business Analysis",
+    "Machine Learning",
+    "Deep Learning"
+  ],
+  "experience": [
+    {
+      "title": "Machine Learning Engineer",
+      "company": "Tata Consultancy Services",
+      "duration_months": null
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech",
+      "institution": "SSGM, Maharashtra",
+      "year": 2017
+    },
+    {
+      "degree": "MSc",
+      "institution": "International Institute of Information Technology (IIIT), Bangalore",
+      "year": 2019
+    }
+  ],
+  "summary": "Machine Learning engineer who has worked on multiple projects with knowledge in big data handling and business analytics. As someone who is always learning, I would love to use my knowledge to provide the best solutions."
+}

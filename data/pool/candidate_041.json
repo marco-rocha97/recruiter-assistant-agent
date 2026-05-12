@@ -1,0 +1,82 @@
+{
+  "id": "candidate_041",
+  "category": "Data Engineer",
+  "skills": [
+    "Lead Development",
+    "build teams",
+    "mentor",
+    "interface with customers and vendors",
+    "architect end to end",
+    "Develop products in consumer electronics",
+    "digital TV",
+    "industrial automation",
+    "control systems",
+    "C",
+    "C++",
+    "JAVA",
+    "JVM",
+    "Embedded Linux",
+    "LXC",
+    "Device Drivers",
+    "Socs",
+    "RTOS - OS9",
+    "VXWorks",
+    "DVB",
+    "MPEG",
+    "H.264",
+    "HLS",
+    "MP4",
+    "JSON",
+    "REST",
+    "SOAP",
+    "XML",
+    "SNMP",
+    "TR069",
+    "Microcontrollers",
+    "hardware",
+    "Matlab",
+    "Octave",
+    "Mathematical modeling",
+    "Integrating content protection systems",
+    "Agile Methodologies",
+    "Scrum",
+    "SDLC",
+    "project planning and management",
+    "leadership"
+  ],
+  "experience": [
+    {
+      "title": "Engineering Manager",
+      "company": "Company Name",
+      "duration_months": 66
+    },
+    {
+      "title": "Engineering Manager, Architect",
+      "company": "Company Name",
+      "duration_months": 82
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Company Name",
+      "duration_months": 45
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Tech",
+      "institution": "Indian Institute of Technology",
+      "year": 1988
+    },
+    {
+      "degree": "B.E",
+      "institution": "Devi Ahilya University",
+      "year": 87
+    },
+    {
+      "degree": "Course",
+      "institution": "Coursera - Stanford",
+      "year": 2016
+    }
+  ],
+  "summary": "To design, develop and manage products in the field of consumer electronics devices, networking protocols, internet applications and connected devices. Vision to create personalized experiences based on machine learning."
+}

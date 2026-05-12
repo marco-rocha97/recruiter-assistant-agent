@@ -1,0 +1,41 @@
+{
+  "id": "candidate_019",
+  "category": "Intern (Generative AI Engineering - 2D/3D Image Generation)",
+  "skills": [
+    "Python",
+    "LeetCode",
+    "GDB",
+    "GitHub",
+    "HTML",
+    "MySQL",
+    "Lucidchart",
+    "Postman",
+    "OWASP ZAP",
+    "Jira"
+  ],
+  "experience": [
+    {
+      "title": "Computer Programmer",
+      "company": "Charles Schwab",
+      "duration_months": null
+    },
+    {
+      "title": "Systems Administrator",
+      "company": "Sysco",
+      "duration_months": 36
+    },
+    {
+      "title": "Help Desk Technician",
+      "company": "Accenture",
+      "duration_months": 24
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "University of Texas",
+      "year": 2015
+    }
+  ],
+  "summary": "nan"
+}

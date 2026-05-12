@@ -1,0 +1,63 @@
+{
+  "id": "candidate_011",
+  "category": "Head of Internal Control & Compliance (ICC) - SEVP/DMD",
+  "skills": [
+    "Executive Decision Maker",
+    "Process Design & Improvement",
+    "New Product Development",
+    "Strategic Planning & Development",
+    "Lean & Six Sigma Practitioner",
+    "Product Design",
+    "Budgetary and Policy Development",
+    "Automation Design",
+    "Quality Control",
+    "Project Management & Execution",
+    "Economic Analysis",
+    "Ergonomic and Safety Conscious"
+  ],
+  "experience": [
+    {
+      "title": "Engineering Manager",
+      "company": "Company Name",
+      "duration_months": 17
+    },
+    {
+      "title": "Project Manager",
+      "company": "Company Name",
+      "duration_months": 15
+    },
+    {
+      "title": "Senior Manufacturing Engineer",
+      "company": "Company Name",
+      "duration_months": 12
+    },
+    {
+      "title": "Senior Manufacturing Engineer",
+      "company": "Company Name",
+      "duration_months": 24
+    },
+    {
+      "title": "Manufacturing Engineer",
+      "company": "Company Name",
+      "duration_months": 48
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Business Administration",
+      "institution": "KELLER GRADUATE SCHOOL OF MANAGEMENT, DEVRY UNIVERSITY",
+      "year": 2010
+    },
+    {
+      "degree": "Bachelor of Science",
+      "institution": "MINNESOTA STATE UNIVERSITY",
+      "year": 2004
+    },
+    {
+      "degree": "Manufacturing Engineering Technology",
+      "institution": "NORTHWEST IOWA COMMUNITY COLLEGE",
+      "year": 1997
+    }
+  ],
+  "summary": "nan"
+}
