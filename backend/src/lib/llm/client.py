@@ -30,6 +30,7 @@ def complete(
     model: str = "gemini/gemini-2.5-flash",
     fallback: str = "openai/gpt-4o-mini",
     max_retries: int = 3,
+    temperature: float | None = None,  # None = model default; 0 = deterministic
 ) -> _T:
     """
     Structured LLM completion with exponential-backoff retry and provider fallback.
@@ -46,6 +47,9 @@ def complete(
         model: Primary LiteLLM model identifier.
         fallback: Provider to try once after max_retries on the primary.
         max_retries: Attempts on the primary model before switching to fallback.
+        temperature: Sampling temperature passed to the provider. None defers to
+                     the model default. Pass 0 for deterministic/reproducible output
+                     (used by the eval harness to produce a stable portfolio number).
 
     Returns:
         An instance of response_format.
@@ -58,6 +62,10 @@ def complete(
         {"role": "user", "content": prompt},
     ]
 
+    extra_kwargs: dict = {}
+    if temperature is not None:
+        extra_kwargs["temperature"] = temperature
+
     last_exc: Exception | None = None
     base_delay = 4.0  # seconds — respects Gemini free-tier 15 RPM
 
@@ -67,6 +75,7 @@ def complete(
                 model=model,
                 messages=messages,
                 response_format=response_format,
+                **extra_kwargs,
             )
             raw = response.choices[0].message.content
             return response_format.model_validate_json(raw)
@@ -90,6 +99,7 @@ def complete(
             model=fallback,
             messages=messages,
             response_format=response_format,
+            **extra_kwargs,
         )
         raw = response.choices[0].message.content
         return response_format.model_validate_json(raw)
