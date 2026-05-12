@@ -22,7 +22,7 @@ env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
   GCP_PROJECT: portfolio-496111
   GCP_REGION: us-central1
-  IMAGE: us-central1-docker.pkg.dev/portfolio-496111/recruiter/recruiter-assistant-agent
+  IMAGE: us-central1-docker.pkg.dev/portfolio-496111/recruiter-assistant-agent/recruiter-assistant-agent
   SERVICE: recruiter-assistant-agent
 
 jobs:
