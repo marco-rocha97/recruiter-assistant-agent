@@ -24,6 +24,7 @@ class CandidateRanking(BaseModel):
     matched_requirements: list[str]
     missing_requirements: list[str]
     evidence: str
+    vector_score: float = 0.0  # derived post-LLM from Chroma L2 distance; not LLM-generated
 
 
 class ShortlistResponse(BaseModel):

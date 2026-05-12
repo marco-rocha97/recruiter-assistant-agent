@@ -24,6 +24,7 @@ def _base_state(**overrides) -> ScreeningState:
         "jd_text": "",
         "jd_embedding": None,
         "candidates": None,
+        "candidate_distances": None,
         "shortlist": None,
         "error": None,
     }
@@ -139,7 +140,11 @@ def test_search_candidates_success(mocker, tmp_path):
         (pool_dir / f"{candidate['id']}.json").write_text(json.dumps(candidate))
 
     mock_collection = mocker.MagicMock()
-    mock_collection.query.return_value = {"ids": [_FAKE_CANDIDATE_IDS]}
+    fake_distances = [0.3 + i * 0.01 for i in range(15)]
+    mock_collection.query.return_value = {
+        "ids": [_FAKE_CANDIDATE_IDS],
+        "distances": [fake_distances],
+    }
     mocker.patch("src.features.ranking.nodes.get_collection", return_value=mock_collection)
     mocker.patch("src.features.ranking.nodes.POOL_DIR", pool_dir)
 
@@ -149,6 +154,8 @@ def test_search_candidates_success(mocker, tmp_path):
     assert result["error"] is None
     assert len(result["candidates"]) == 15
     assert all("id" in c for c in result["candidates"])
+    assert isinstance(result["candidate_distances"], dict)
+    assert len(result["candidate_distances"]) == 15
 
 
 def test_search_candidates_exception(mocker):
@@ -205,6 +212,23 @@ def test_rank_candidates_success(mocker):
     assert result["error"] is None
     assert result["shortlist"] is not None
     assert len(result["shortlist"].rankings) == 5
+
+
+def test_rank_candidates_sets_vector_score_from_distances(mocker):
+    mock_shortlist = ShortlistResponse(rankings=_VALID_RANKINGS[:3])
+    mocker.patch("src.features.ranking.nodes.complete", return_value=mock_shortlist)
+
+    distances = {f"candidate_{i:03d}": 0.4 for i in range(1, 4)}
+    state = _base_state(
+        jd_text="Senior Python engineer role.",
+        candidates=_QUERIED_CANDIDATES,
+        candidate_distances=distances,
+    )
+    result = rank_candidates(state)
+
+    assert result["error"] is None
+    for r in result["shortlist"].rankings:
+        assert r.vector_score == round(1.0 - 0.4 / 2.0, 3)
 
 
 def test_rank_candidates_filters_hallucinated_id(mocker):

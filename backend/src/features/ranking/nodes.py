@@ -135,13 +135,16 @@ def search_candidates(state: ScreeningState) -> ScreeningState:
         results = collection.query(
             query_embeddings=[state["jd_embedding"]],
             n_results=15,
+            include=["documents", "metadatas", "distances"],
         )
         candidate_ids = results["ids"][0]
+        distances = results["distances"][0]
+        distance_map = dict(zip(candidate_ids, distances))
         candidates = []
         for cid in candidate_ids:
             pool_file = POOL_DIR / f"{cid}.json"
             candidates.append(json.loads(pool_file.read_text()))
-        return {**state, "candidates": candidates}
+        return {**state, "candidates": candidates, "candidate_distances": distance_map}
     except Exception:
         return {
             **state,
@@ -164,8 +167,15 @@ def rank_candidates(state: ScreeningState) -> ScreeningState:
             system=RANKING_SYSTEM_PROMPT,
             response_format=ShortlistResponse,
         )
-        # Discard any candidate_id the LLM hallucinated outside the queried set
-        valid_rankings = [r for r in result.rankings if r.candidate_id in queried_ids]
+        distance_map: dict[str, float] = state["candidate_distances"] or {}
+        valid_rankings = []
+        for r in result.rankings:
+            if r.candidate_id not in queried_ids:
+                continue
+            distance = distance_map.get(r.candidate_id, 0.0)
+            # L2 distance on normalized vectors: 0=identical, 2=opposite
+            score = round(1.0 - distance / 2.0, 3)
+            valid_rankings.append(r.model_copy(update={"vector_score": score}))
         return {**state, "shortlist": ShortlistResponse(rankings=valid_rankings)}
     except Exception:
         return {
