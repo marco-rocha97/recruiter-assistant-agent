@@ -10,6 +10,7 @@ const testRanking: CandidateRanking = {
   matched_requirements: ['Python', 'FastAPI', 'Docker'],
   missing_requirements: ['Kubernetes'],
   evidence: 'Strong Python background with 3 years FastAPI experience.',
+  vector_score: 0.82,
 };
 
 describe('CandidateRow', () => {

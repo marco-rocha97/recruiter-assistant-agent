@@ -35,6 +35,9 @@ export function CandidateRow({ ranking, isExpanded, onToggle, override, onOverri
         <span className="w-6 text-center text-xs font-bold text-indigo-600">
           #{ranking.rank}
         </span>
+        <span className="rounded bg-indigo-50 px-1.5 py-0.5 text-xs font-medium text-indigo-700">
+          {Math.round(ranking.vector_score * 100)}% match
+        </span>
         {override === 'shortlisted' && (
           <span className="rounded bg-green-100 px-2 py-0.5 text-xs font-medium text-green-800">
             Shortlisted

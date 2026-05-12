@@ -19,7 +19,7 @@ export function LoadingState() {
           d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z"
         />
       </svg>
-      <p className="text-sm">Analyzing candidates — this takes about 10 seconds.</p>
+      <p className="text-sm">Analyzing candidates — this may take up to 30 seconds depending on the JD length.</p>
     </div>
   );
 }

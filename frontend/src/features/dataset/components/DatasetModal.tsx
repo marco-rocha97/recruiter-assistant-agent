@@ -85,10 +85,10 @@ export function DatasetModal({ onClose }: { onClose: () => void }) {
               </div>
             )}
 
-            <p className="text-xs text-gray-400">
-              Source: {data.total_source.toLocaleString()} CVs sampled from a public Kaggle resume dataset.
-              {data.total_selected} were selected for processing; {data.total_included} passed all gates.
-            </p>
+            <div className="text-xs text-gray-400 space-y-1">
+              <p>Source: {data.total_source.toLocaleString()} CVs sampled from a public Kaggle resume dataset.</p>
+              <p>{data.total_selected} were selected for processing; {data.total_included} passed all gates.</p>
+            </div>
           </div>
         )}
       </div>

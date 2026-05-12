@@ -15,5 +15,6 @@ class ScreeningState(TypedDict):
     jd_text: str
     jd_embedding: list[float] | None
     candidates: list[dict] | None  # top-15 pool JSON dicts from Chroma query
+    candidate_distances: dict[str, float] | None  # candidate_id → L2 distance
     shortlist: ShortlistResponse | None
     error: ScreeningError | None

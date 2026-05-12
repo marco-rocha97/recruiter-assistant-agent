@@ -5,6 +5,7 @@ export interface CandidateRanking {
   matched_requirements: string[];
   missing_requirements: string[];
   evidence: string;
+  vector_score: number;
 }
 
 export interface ShortlistResponse {
