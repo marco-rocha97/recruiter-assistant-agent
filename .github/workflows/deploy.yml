@@ -66,6 +66,7 @@ jobs:
           env_vars: |
             GEMINI_API_KEY=${{ secrets.GEMINI_API_KEY }}
             OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}
+            CORS_ORIGINS=https://portfolio-496111.web.app,https://portfolio-496111.firebaseapp.com
 
   deploy-frontend:
     needs: deploy-backend

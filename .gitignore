@@ -1,3 +1,9 @@
+# Raw source data — gitignored per CLAUDE.md; only processed pool/ is committed
+data/source/
+
+# Logs
+*.log
+
 # Python
 __pycache__/
 # Stray local Chroma artifacts — canonical data lives in root data/
