@@ -1,0 +1,27 @@
+[
+  {
+    "id": "jd_001",
+    "title": "Senior Data Scientist",
+    "text": "Senior Data Scientist — Mid-size analytics company. We are looking for a Senior Data Scientist with 3+ years of experience. Required: Python, SQL, machine learning, statistical modeling, data visualization (Tableau or Power BI). Nice to have: deep learning, TensorFlow or PyTorch, Jupyter, cloud platforms (AWS or GCP). You will design and implement predictive models, perform exploratory data analysis, and present insights to business stakeholders."
+  },
+  {
+    "id": "jd_002",
+    "title": "Senior iOS Engineer",
+    "text": "Senior iOS Engineer — Mobile startup. We need an iOS developer with Swift and Objective-C experience to build and maintain our consumer-facing app. Required: Swift, iOS SDK, Xcode, REST API integration, UIKit. Nice to have: Core Data, SwiftUI, CI/CD (Fastlane), unit testing (XCTest). You will own feature development end-to-end and collaborate with product and backend teams."
+  },
+  {
+    "id": "jd_003",
+    "title": "Network Support Engineer",
+    "text": "Network Support Engineer — Enterprise IT team. We are seeking an experienced network engineer to manage and troubleshoot corporate network infrastructure. Required: TCP/IP, network troubleshooting, CCNA or equivalent, Cisco/Juniper equipment, VLAN configuration. Nice to have: Python scripting for network automation, firewall management, monitoring tools (Nagios, Zabbix). You will handle escalated incidents, maintain network documentation, and ensure 99.9% uptime."
+  },
+  {
+    "id": "jd_004",
+    "title": "Machine Learning Engineer",
+    "text": "Machine Learning Engineer — AI product company. We are hiring an ML Engineer to take models from research to production. Required: Python, PyTorch or TensorFlow, model deployment (Docker, REST APIs), MLOps experience. Nice to have: Kubernetes, MLflow, distributed training, LLM fine-tuning, Hugging Face. You will own the training pipeline, deploy models to production, and maintain performance monitoring."
+  },
+  {
+    "id": "jd_005",
+    "title": "Python Backend Developer",
+    "text": "Python Backend Developer — SaaS company. We need a Python developer to build and maintain backend services. Required: Python, Django or FastAPI, PostgreSQL, REST API design, Git. Nice to have: Docker, Redis, Celery, AWS, Linux system administration. You will design and implement backend services, write tests, and participate in code reviews."
+  }
+]

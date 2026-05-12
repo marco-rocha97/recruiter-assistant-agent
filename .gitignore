@@ -34,3 +34,6 @@ build/
 .claude/
 CLAUDE.md
 .understand-anything/
+
+# Eval harness — intermediate LLM suggestions before human review
+data/eval/ground_truth_review.json
