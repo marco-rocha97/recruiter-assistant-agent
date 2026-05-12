@@ -28,7 +28,7 @@ from pathlib import Path
 # Bootstrap sys.path so that backend/src is importable (same pattern as
 # prepare_dataset.py — both run via uv run --directory backend).
 _REPO_ROOT = Path(__file__).parent.parent
-sys.path.insert(0, str(_REPO_ROOT / "backend" / "src"))
+sys.path.insert(0, str(_REPO_ROOT / "backend"))
 sys.path.insert(0, str(_REPO_ROOT))
 
 logging.basicConfig(
